@@ -1,5 +1,6 @@
 eureka:
-#  instance:
+  instance:
+    hostname: localhost
 #    prefer-ip-address: false
   client:
     fetch-registry: true
